@@ -13,7 +13,7 @@ pub fn raindrops(n: i64) -> String {
     };
 
     //Return String result
-    String::from(number)
+    number
 }
 
 //get the raindrop String
